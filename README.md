@@ -20,26 +20,6 @@ Dynamic routing via URL parameters
 
 Deployed, production-ready static hosting
 
-🚀 Live Demo
-
-(Add your GitHub Pages link here)
-
-📂 Project Structure
-/
-│── index.html
-│── browse.html
-│── comic-detail.html
-│── cart.html
-│── assets/
-│     ├── images/
-│     └── css/
-│── scripts/
-│     ├── main.js
-│     ├── comics.js  (or comics.json)
-│     ├── cart.js
-│     └── detail.js
-│── README.md
-
 📸 Feature Summary
 1. Homepage (index.html)
 
@@ -103,8 +83,8 @@ No backend. No frameworks. No build tools.
 
 📦 Installation & Setup
 1. Clone the repo
-git clone https://github.com/yourusername/comicverse-hub.git
-cd comicverse-hub
+git clone https://github.com/ojas1805/comicverse.git
+cd comicverse
 
 2. Run locally
 
@@ -145,11 +125,9 @@ Implement search-as-you-type
 
 Lazy-loading images
 
-Dark/light mode toggle
 
 👥 Contribution Breakdown
 
-Distribution: ~90% by first three members, ~10% by fourth, aligned with actual effort.
 
 Himanshu Verma — Front-End Architecture & UI Engineering (35%)
 
